@@ -1,0 +1,27 @@
+简介
+https://www.imooc.com/video/2026
+cURL  的概念
+cURL
+中文名
+cURL
+外文名
+cURL(CommandLine Uniform Resource Locator)由Daniel Stenberg创建
+cURL is a command line tool for transferring data with URL syntax,即使用URL语法传输数据的命令行工具。
+
+cURL
+
+
+cURL 的使用场景
+网页资源
+-编写网页爬虫
+WebService数据接口资源
+-动态获取接口数据。比如天气、号码归属地等。
+FTP服务器里面的文件。
+其他资源
+-所有网络上的资源都可以用curl访问和下载到。
+
+在PHP中使用cURL
+添加cURL支持。
+百度关键词
+PHP Windows curl
+PHP Linux curl
